@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 22 00:57:17 2024
-
-@author: neeleshkumar
-"""
-
 class WeightUnion:
     def __init__(self,size):
         self.size = size 

@@ -16,6 +16,6 @@ def combine(n: int, k: int) :
     combinations(1,[])
     return res
 
-print(combine(4,4))
+print(combine(4,3))
 
         
